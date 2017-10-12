@@ -1,0 +1,15 @@
+{
+    "title": "New Project 3",
+    "baseURL": "https:\/\/newproject3.com\/newproject3",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/newproject3",
+        "firstpartycookies": true,
+        "cookiedomain": "newproject3.com"
+    }
+}
